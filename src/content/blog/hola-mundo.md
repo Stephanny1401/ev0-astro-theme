@@ -1,9 +1,9 @@
 ---
 title: "hola mundo"
-description: explorar el mundo
+description: 'explorar el mundo'
 pubDate: "2024-11-22T17:57:15.943Z"
 heroImage: '/blog-placeholder.jpg'
-categories:['life']
+categories: ['life']
 authors: ['Steph']
 tags: ['space']
 ---
